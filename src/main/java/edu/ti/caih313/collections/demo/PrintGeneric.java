@@ -1,6 +1,7 @@
 package edu.ti.caih313.collections.demo;
 
 import java.util.Collection;
+import java.util.Collections;
 import java.util.Iterator;
 
 public class PrintGeneric<T> {

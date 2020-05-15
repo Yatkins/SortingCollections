@@ -1,9 +1,7 @@
 package edu.ti.caih313.collections.sort;
 
-import edu.ti.caih313.collections.dataobj.Name;
 import edu.ti.caih313.collections.dataobj.NameByLast;
 import edu.ti.caih313.collections.demo.PrintGeneric;
-
 import java.util.*;
 
 public class SortNameByLastDemo {
