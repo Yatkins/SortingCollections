@@ -15,9 +15,9 @@ public class SortPersonSortableDemo {
             PersonSortable personArray[] = {
                     new PersonSortable(new Name("John", "Smith"), Person.Gender.MALE, 24),
                     new PersonSortable(new Name("Karl", "Ng"), Person.Gender.MALE, 27),
-                    new PersonSortable(new Name("Jessie", "Smith"), Person.Gender.FEMALE, 32),
+                    new PersonSortable(new Name("Jessie", "Smith"), Person.Gender.FEMALE, 24),
                     new PersonSortable(new Name("Sara", "Rich"), Person.Gender.FEMALE, 36),
-                    new PersonSortable(new Name("Bob", "Smith"), Person.Gender.MALE, 28),
+                    new PersonSortable(new Name("Bob", "Smith"), Person.Gender.MALE, 27),
                     new PersonSortable(new Name("Jane", "Doe"), Person.Gender.FEMALE, 40),
                     new PersonSortable(new Name("Tony", "Stark"), Person.Gender.MALE, 18),
                     new PersonSortable(new Name("Bo", "Peep"), Person.Gender.MALE, 37)
